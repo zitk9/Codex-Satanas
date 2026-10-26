@@ -33,20 +33,6 @@ Everything is rendered natively through CSS and embedded vector/WebP filters for
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-### Home & Friends View
-![Home View](assets/discord_main.png)
-
-### Voice Channels & Participant Grid
-![Voice Call View](assets/discord_voice.png)
-
-</div>
-
----
-
 ## Key Changes
 
 - **Consistent Color System**: Every single Discord token (including the 2026 visual refresh variables) mapped to arterial crimson (`#ff172b`), blood red (`#cc0a1d`), and dark clot (`#3d050b`).

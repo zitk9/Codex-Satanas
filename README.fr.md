@@ -33,20 +33,6 @@ Tous les éléments sont gérés en CSS natif avec des filtres vectoriels et Web
 
 ---
 
-## Captures d'écran
-
-<div align="center">
-
-### Vue Accueil & Liste d'Amis
-![Vue Accueil](assets/discord_main.png)
-
-### Salons Vocaux & Grille de Participants
-![Vue Appel Vocal](assets/discord_voice.png)
-
-</div>
-
----
-
 ## Modifications apportées
 
 - **Système de couleurs unifié** : Toutes les variables de l'interface (y compris la mise à jour visuelle 2026 de Discord) sont redéfinies en rouge artériel (`#ff172b`), rouge sang (`#cc0a1d`) et sang coagulé (`#3d050b`).
