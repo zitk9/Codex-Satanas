@@ -79,7 +79,7 @@ Codex Satanas respecte rigoureusement les spécifications ouvertes CSS de Discor
 2. Allez dans les **Paramètres utilisateur** (⚙️) > **Vencord** (ou **Vesktop**) > **Thèmes** (*Themes*).
 3. Dans la zone **Thèmes en ligne** (*Online Themes*), collez le lien direct suivant :
    ```text
-   https://raw.githubusercontent.com/zitk9/Codex-Satanas/master/codex-satanas.theme.css
+   https://raw.githubusercontent.com/zitk9/Codex-Satanas/main/codex-satanas.theme.css
    ```
 4. Appuyez sur **Entrée** ou activez le bouton. Le thème s'applique instantanément et se mettra à jour automatiquement !
 

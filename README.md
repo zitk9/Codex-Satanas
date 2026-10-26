@@ -79,7 +79,7 @@ Codex Satanas adheres strictly to open Discord CSS standards. It is compatible w
 2. Go to **User Settings** (⚙️) > **Vencord** (or **Vesktop**) > **Themes**.
 3. Under **Online Themes**, paste the following raw link:
    ```text
-   https://raw.githubusercontent.com/zitk9/Codex-Satanas/master/codex-satanas.theme.css
+   https://raw.githubusercontent.com/zitk9/Codex-Satanas/main/codex-satanas.theme.css
    ```
 4. Hit **Enter** or toggle the switch. The theme will apply immediately and receive automatic updates!
 
