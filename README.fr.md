@@ -1,137 +1,139 @@
 <div align="center">
 
-# ⸸ Codex Satanas ⸸
-### *Thème Occulte Historique & Sang Viscéral Intégral pour Discord*
+# Codex Satanas
+### Thème Occulte Historique & Nuances Cramoisies pour Discord
 
-[![English](https://img.shields.io/badge/Lang-English-3d050b.svg?style=for-the-badge)](README.md)
-[![Français](https://img.shields.io/badge/Lang-Français-ff172b.svg?style=for-the-badge)](#)
-
-<br/>
-
-[![Version](https://img.shields.io/badge/version-12.0.0-crimson.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zitk9/Codex-Satanas/releases)
-[![Auteur](https://img.shields.io/badge/Auteur-!deadcow.ghw-800512.svg?style=for-the-badge)](https://discord.gg/cdcleak)
-[![Communauté](https://img.shields.io/badge/Discord-discord.gg%2Fcdcleak-ff172b.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cdcleak)
-[![Compatibilité](https://img.shields.io/badge/Clients-Vencord%20|%20Vesktop%20|%20BetterDiscord%20|%20Equicord-b80612.svg?style=for-the-badge)](#-compatibilité-multi-clients)
-[![Licence](https://img.shields.io/badge/Licence-MIT-red.svg?style=for-the-badge)](LICENSE)
+[English](README.md) • [Français](README.fr.md)
 
 <br/>
 
-**[ 🇬🇧 English ](README.md) • [ 🇫🇷 Français ](README.fr.md)**
+[![Version](https://img.shields.io/badge/version-12.0.0-960816?style=flat-square)](https://github.com/zitk9/Codex-Satanas/releases)
+[![Auteur](https://img.shields.io/badge/auteur-!deadcow.ghw-160203?style=flat-square)](https://discord.gg/cdcleak)
+[![Discord](https://img.shields.io/badge/discord-discord.gg%2Fcdcleak-cc0a1d?style=flat-square)](https://discord.gg/cdcleak)
+[![Clients](https://img.shields.io/badge/clients-Vencord%20|%20Vesktop%20|%20BetterDiscord-160203?style=flat-square)](#compatibilité)
+[![Licence](https://img.shields.io/badge/licence-MIT-2b0408?style=flat-square)](LICENSE)
 
 <br/>
 
-![Codex Satanas Aperçu](assets/preview.png)
+![Codex Satanas - Vue Accueil](assets/discord_main.png)
 
 </div>
 
 ---
 
-## 🩸 Présentation
+## Présentation
 
-**Codex Satanas** est un thème Discord complet, viscéral et sombre conçu sans aucun compromis. Il éradique intégralement les gris par défaut, les bronzes ternes et les beiges délavés de l'interface Discord moderne pour les remplacer par du **rouge sang artériel (`#ff172b`, `#cc0a1d`)**, du **sang coagulé sombre (`#3d050b`)** et un **noir d'obsidienne pur (`#0d0102`)**.
+Codex Satanas est un thème open-source pour Discord basé sur des teintes rouge sang artériel et noir d'obsidienne. Il supprime les gris ternes et beiges par défaut de l'interface Discord et intègre de vraies gravures historiques sur bois du XVIe et XIXe siècle (sans images générées par IA) :
 
-Contrairement aux créations artificielles ou générées par IA, **Codex Satanas** s'appuie sur de véritables **gravures sur bois occultes et satanistes des XVIᵉ et XIXᵉ siècles**, restaurées en encre de sang :
-- ⛧ **Le Sceau de Baphomet** (*Stanislas de Guaita, La Clef de la Magie Noire, 1897*) avec les inscriptions hébraïques authentiques (`לויתן` - *Léviathan*) et le Bouc de Mendès.
-- 🜏 **Le Bouc Sabbatique / Baphomet** (*Éliphas Lévi, Dogme et Rituel de la Haute Magie, 1856*) arborant `SOLVE` et `COAGULA`.
-- ⸸ **Le Véritable Sceau de Lucifer** (*Grimorium Verum, 1517*).
+- **Stanislas de Guaita (1897)** : *La Clef de la Magie Noire* (Sceau de Baphomet avec les inscriptions hébraïques d'origine).
+- **Éliphas Lévi (1856)** : *Dogme et Rituel de la Haute Magie* (Le Bouc Sabbatique).
+- **Grimorium Verum (1517)** : Le Sceau complet de Lucifer.
 
----
-
-## ⚡ Fonctionnalités Clés
-
-* 🩸 **100% Rouge Sang & Noir Abyssal** : Remplacement exhaustif de toutes les variables et classes de Discord (y compris la refonte *visual refresh* 2026, icônes, bordures, survols et bulles d'aide).
-* ⸸ **Reliques Occultes Animées** : Couronne rituelle en orbite continue composée de Croix de Saint-Pierre inversées (`⸸`) et de Croix de Léviathan (`🜏`) avec pulsations lumineuses.
-* 🧪 **Coulures de Sang Réalistes en 3D** : Effets de liquide organique et de brillance spectrale via filtres SVG (`feTurbulence`, `feDisplacementMap`, `feSpecularLighting`) au sommet de l'interface.
-* 🎙️ **Interface Vocale & Partage d'Écran Dédiée** : Tuiles des participants en verre d'obsidienne rouge sombre (`18px`), filigrane historique de Baphomet et halos de parole incandescents.
-* 🎛️ **Contrôles Ergonomiques Pro** : Boutons de fenêtre (Réduire / Agrandir / Fermer), barre d'action vocale (*soundboard*, partage d'écran, caméra, micro) repensés en médaillons sans déformation.
-* 🎵 **Lecteur Spotify & Vencord Intégrés** : Barre de progression liquide cramoisie, reflets synchronisés et badges de serveur personnalisés.
-* 🖋️ **Typographies Gothiques & Antiques** : Polices *Cinzel Decorative*, *UnifrakturMaguntia*, *Cormorant Garamond* et *JetBrains Mono*.
+Tous les éléments sont gérés en CSS natif avec des filtres vectoriels et WebP intégrés pour garantir zéro ralentissement sur l'application.
 
 ---
 
-## 🌐 Compatibilité Multi-Clients
+## Captures d'écran
 
-Codex Satanas respecte rigoureusement les spécifications ouvertes CSS de Discord. Il est compatible avec l'ensemble des clients modifiés et injecteurs CSS :
+<div align="center">
 
-| Client / Environnement | Niveau de Support | Méthode d'Installation |
+### Vue Accueil & Liste d'Amis
+![Vue Accueil](assets/discord_main.png)
+
+### Salons Vocaux & Grille de Participants
+![Vue Appel Vocal](assets/discord_voice.png)
+
+</div>
+
+---
+
+## Modifications apportées
+
+- **Système de couleurs unifié** : Toutes les variables de l'interface (y compris la mise à jour visuelle 2026 de Discord) sont redéfinies en rouge artériel (`#ff172b`), rouge sang (`#cc0a1d`) et sang coagulé (`#3d050b`).
+- **Contrôles ergonomiques** : Boutons de fenêtre (réduire, agrandir, fermer), barre vocale (soundboard, partage d'écran, caméra, micro) repensés en touches capsules nettes sans déformation.
+- **Grille vocale adaptée** : Cartes des participants avec fond verre rouge sombre, filigrane Baphomet et halo de prise de parole.
+- **Polices incluses** : *Cinzel Decorative*, *UnifrakturMaguntia*, *Cormorant Garamond* et *JetBrains Mono*.
+- **Compatibilité Vencord** : Support natif du lecteur Spotify, des badges de serveur et des extensions Vencord.
+
+---
+
+## Compatibilité
+
+Codex Satanas utilise les variables CSS standards et les en-têtes BetterDiscord / Vencord. Il fonctionne sur n'importe quel client ou extension supportant l'injection CSS :
+
+| Client | Statut | Méthode d'installation |
 | :--- | :---: | :--- |
-| **Vencord** (Desktop) | 🟢 **100% Natif** | Thème en ligne en 1 clic ou fichier local |
-| **Vesktop** (Linux / Win / Mac) | 🟢 **100% Natif** | Thème en ligne en 1 clic ou fichier local |
-| **BetterDiscord** | 🟢 **100% Natif** | Déposer `.theme.css` dans le dossier des thèmes |
-| **Equicord** | 🟢 **100% Natif** | Thème en ligne ou fichier local |
-| **Legcord** | 🟢 **Compatible** | Menu Custom CSS / Vencord |
-| **ArmCord** | 🟢 **Compatible** | Injection CSS personnalisée |
-| **Dorion** | 🟢 **Compatible** | Paramètres > Custom CSS |
-| **OpenAsar** | 🟢 **Compatible** | Injecteur QuickCSS |
-| **Discord Web** (Chrome / Firefox / Brave) | 🟢 **Compatible** | Extension **Stylus** ou Vencord Web |
-
-> [!NOTE]
-> **Comment savoir si un autre client est compatible ?**
-> Si votre client alternatif Discord permet d'activer un fichier `.theme.css`, d'injecter du code CSS personnalisé ou d'ajouter une URL distante, **Codex Satanas fonctionnera sans modification**.
+| **Vencord** (Desktop) | Supporté | Lien direct Online Theme ou `.theme.css` local |
+| **Vesktop** (Linux / Win / macOS) | Supporté | Lien direct Online Theme ou `.theme.css` local |
+| **BetterDiscord** | Supporté | Déposer le `.theme.css` dans le dossier des thèmes |
+| **Equicord** | Supporté | Online Theme ou dossier local |
+| **Legcord** | Supporté | Panneau Custom CSS |
+| **ArmCord** | Supporté | Panneau Custom CSS |
+| **Dorion** | Supporté | Panneau Custom CSS |
+| **Discord Web** (Chrome / Firefox / Brave) | Supporté | Extension Stylus ou Vencord Web |
 
 ---
 
-## 📥 Guide d'Installation
+## Installation
 
-### Méthode 1 : Vencord & Vesktop (Installation rapide en 1 clic — Recommandée)
+### Vencord / Vesktop (Thème en ligne - Recommandé)
 
-1. Ouvrez Discord.
-2. Allez dans les **Paramètres utilisateur** (⚙️) > **Vencord** (ou **Vesktop**) > **Thèmes** (*Themes*).
-3. Dans la zone **Thèmes en ligne** (*Online Themes*), collez le lien direct suivant :
+1. Ouvrez les Paramètres de Discord > **Vencord** (ou **Vesktop**) > **Themes**.
+2. Collez ce lien dans le champ **Online Themes** :
    ```text
    https://raw.githubusercontent.com/zitk9/Codex-Satanas/main/codex-satanas.theme.css
    ```
-4. Appuyez sur **Entrée** ou activez le bouton. Le thème s'applique instantanément et se mettra à jour automatiquement !
+3. Appuyez sur Entrée. Le thème s'applique directement et recevra les futures mises à jour automatiquement.
 
 ---
 
-### Méthode 2 : BetterDiscord / Fichier local
+### BetterDiscord / Installation locale
 
-1. Téléchargez le fichier [`codex-satanas.theme.css`](https://raw.githubusercontent.com/zitk9/Codex-Satanas/master/codex-satanas.theme.css).
-2. Ouvrez Discord > **Paramètres utilisateur** (⚙️) > **Thèmes** (sous *BetterDiscord* ou *Vencord*).
-3. Cliquez sur **Ouvrir le dossier des thèmes** (*Open Themes Folder*).
-4. Placez-y le fichier `codex-satanas.theme.css` :
-   * **Linux** : `~/.config/BetterDiscord/themes/` ou `~/.config/Vencord/themes/`
-   * **Windows** : `%appdata%\BetterDiscord\themes\` ou `%appdata%\Vencord\themes\`
-   * **macOS** : `~/Library/Application Support/BetterDiscord/themes/`
-5. Activez l'interrupteur **Codex Satanas** dans Discord.
-
----
-
-### Méthode 3 : Discord Web (Navigateur via Stylus)
-
-1. Installez l'extension [Stylus](https://add0n.com/stylus.html) sur Chrome, Brave, Firefox ou Edge.
-2. Cliquez sur l'icône de Stylus > **Écrire un style pour: `discord.com`**.
-3. Copiez tout le contenu de [`codex-satanas.theme.css`](codex-satanas.theme.css) et collez-le dans l'éditeur.
-4. Enregistrez et rechargez Discord Web.
+1. Téléchargez [`codex-satanas.theme.css`](https://raw.githubusercontent.com/zitk9/Codex-Satanas/main/codex-satanas.theme.css).
+2. Ouvrez les Paramètres de Discord > **Themes** (sous BetterDiscord ou Vencord).
+3. Cliquez sur **Open Themes Folder** (Ouvrir le dossier des thèmes).
+4. Déplacez le fichier `codex-satanas.theme.css` dans ce dossier :
+   - **Linux** : `~/.config/BetterDiscord/themes/` ou `~/.config/Vencord/themes/`
+   - **Windows** : `%appdata%\BetterDiscord\themes\` ou `%appdata%\Vencord\themes\`
+   - **macOS** : `~/Library/Application Support/BetterDiscord/themes/`
+5. Activez l'interrupteur dans votre liste de thèmes.
 
 ---
 
-## 🛠️ Nuances & Personnalisation CSS
+### Navigateur (Discord Web via Stylus)
 
-Toutes les nuances peuvent être éditées à la racine `:root` du thème :
+1. Installez l'extension [Stylus](https://add0n.com/stylus.html) sur votre navigateur.
+2. Ouvrez Stylus > Créez un nouveau style pour `discord.com`.
+3. Copiez l'intégralité de [`codex-satanas.theme.css`](codex-satanas.theme.css) et collez-le.
+4. Sauvegardez le style.
+
+---
+
+## Personnalisation
+
+Les teintes principales peuvent être ajustées directement dans les variables `:root` :
 
 ```css
 :root {
-  --crimson-bright: #ff172b;  /* Rouge sang artériel éclatant */
-  --crimson-wet:    #cc0a1d;  /* Sang frais liquide */
-  --crimson-artery: #960816;  /* Sang artériel profond */
-  --crimson-clot:   #3d050b;  /* Sang coagulé noirci */
-  --crimson-abyss:  #0d0102;  /* Noir d'obsidienne fondamental */
+  --crimson-bright: #ff172b;  /* Rouge artériel vif */
+  --crimson-wet:    #cc0a1d;  /* Rouge sang net */
+  --crimson-artery: #960816;  /* Rouge profond */
+  --crimson-clot:   #3d050b;  /* Sang coagulé sombre */
+  --crimson-abyss:  #0d0102;  /* Noir d'obsidienne de fond */
 }
 ```
 
 ---
 
-## 🤝 Communauté & Support
+## Communauté & Contact
 
-* **Créateur** : `!deadcow.ghw`
-* **Discord Officiel** : [discord.gg/cdcleak](https://discord.gg/cdcleak)
-* **Signalement de bugs & demandes** : Ouvrez une issue sur ce dépôt GitHub.
+- Auteur : `!deadcow.ghw`
+- Discord : [discord.gg/cdcleak](https://discord.gg/cdcleak)
+- Pour signaler un bug ou proposer une modification, ouvrez une issue sur GitHub.
 
 ---
 
-## ⚖️ Licence
+## Licence
 
-Sous licence **MIT**. Consultez [LICENSE](LICENSE) pour plus d'informations.
-Gravures historiques issues du domaine public (Stanislas de Guaita 1897, Éliphas Lévi 1856, Grimorium Verum 1517).
+Licence MIT. Consultez [LICENSE](LICENSE) pour plus de détails.
+Gravures historiques issues du domaine public.
